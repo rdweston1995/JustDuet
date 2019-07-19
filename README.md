@@ -1,1 +1,1 @@
-# JustDuet
+# project-2
